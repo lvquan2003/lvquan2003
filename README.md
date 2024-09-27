@@ -21,19 +21,11 @@ levine203" target="_blank">
 
 <br/>  
 
-<table><tr><td valign="top" width="50%">
-
 
 
 ### Education  
 - 🌱 I’m currently learning University of Information Technology ( HCM City )  
-
-
-</td><td valign="top" width="50%">
-
-
-
-</td></tr></table>  
+  
 
 <br/>  
 
@@ -64,27 +56,7 @@ levine203" target="_blank">
 
 <br/>  
 
-<table><tr><td valign="top" width="50%">
-
-
-
-</td><td valign="top" width="50%">
-
-
-
-</td></tr></table>  
-
-<br/>  
-
-  
-
-<br/>  
-
 ![Profile views counter](https://komarev.com/ghpvc/?username=lvquan2003&&style=flat-square)  
-  
-
-<br/>  
-
 
 <br />
 
