@@ -1,5 +1,5 @@
 <h2 align="left">Hi there 👋, I'm Le Quan</h2>
-<h4 align="left">Student at University of Information Technology VNU-HCM</h4>
+<h4 align="left">🌱 Student at University of Information Technology VNU-HCM</h4>
 
 ###
 
